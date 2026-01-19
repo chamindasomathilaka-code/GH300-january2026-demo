@@ -1,0 +1,15 @@
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+.idea/
+Release/
+Debug/
+artifacts/
+*.db
+.DS_Store
